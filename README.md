@@ -41,8 +41,4 @@ Bookshelf App adalah proyek tugas akhir dari kelas **Belajar Membuat Front-End W
    ```bash
    git clone https://github.com/Nino-123/Bookself-App.git
 
-Bookself-App/
-├── index.html
-├── style.css
-└── main.js
 
