@@ -40,5 +40,29 @@ Bookshelf App adalah proyek tugas akhir dari kelas **Belajar Membuat Front-End W
 1. Clone repository ini  
    ```bash
    git clone https://github.com/Nino-123/Bookself-App.git
+2. Buka file index.html di browser favoritmu
+(Cukup klik dua kali / open via local server jika diperlukan)
+3. Mulai tambahkan buku, edit, hapus, atau ubah statusnya
+   
+---
 
+✏️ Catatan / Pengembangan Selanjutnya
+Beberapa ide pengembangan ke depan:
+- Menyimpan data di penyimpanan lokal (localStorage) agar data tetap ada setelah tutup browser
+- Tambahkan validasi input (misalnya: tahun harus angka, field tidak boleh kosong)
+- Tambahkan UX-friendly features seperti toast message (berhasil/salah), modal konfirmasi saat menghapus
+- Mungkin styling agar lebih responsif / mobile-friendly
 
+---
+
+## Project Structure
+
+```plaintext
+Bookself-App/
+├── index.html
+├── style.css
+├── main.js
+└── screenshots/
+    ├── home.png
+    ├── add-book.png
+    └── book-list.png
