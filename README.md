@@ -1,5 +1,7 @@
 # Bookshelf App
 
+<img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/8aa49e68-16df-43a8-a262-2596bf170d39" />
+
 Bookshelf App adalah proyek tugas akhir dari kelas **Belajar Membuat Front-End Web untuk Pemula** di Dicoding / Asah. Aplikasi ini memungkinkan pengguna untuk **menambah, mengubah, menghapus**, dan **menandai status buku** (selesai atau belum selesai dibaca).
 
 ---
@@ -38,3 +40,9 @@ Bookshelf App adalah proyek tugas akhir dari kelas **Belajar Membuat Front-End W
 1. Clone repository ini  
    ```bash
    git clone https://github.com/Nino-123/Bookself-App.git
+
+Bookself-App/
+├── index.html
+├── style.css
+└── main.js
+
